@@ -1,0 +1,7 @@
+WINDOW_SIZE = 1024
+
+
+UPLOAD_FOLDER = './static/uploads/'
+ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg'])
+MAX_CONTENT_LENGTH = 16 * 1024 * 1024
+SECRET_KEY = 'SECRET_KEY'

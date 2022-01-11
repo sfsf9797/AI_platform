@@ -1,0 +1,6 @@
+Flask==2.0.2
+numpy==1.19.5
+onnx==1.10.2
+onnxruntime==1.10.0
+opencv-python==4.5.5.62
+pillow==8.4.0
